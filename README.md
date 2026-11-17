@@ -1,1 +1,3 @@
-# csc-assignment
+int main() {
+    
+}
